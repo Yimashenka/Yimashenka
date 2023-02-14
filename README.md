@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yimashenka
-- 👀 I’m interested in Artificial Intelligence, Data Science and the world around the data ! (And Lasagna, of course)
+- 👀 I’m interested in Artificial Intelligence, Data Science and the world around the data ! (And Lasagna, and pizza, aaaaaand the moon :new_moon:)
 - 🌱 I’m currently learning the basics of Deep Learning Algorithms (ANN, RNN, SOM, BMS, AutoEncoders, etc.)
 - 💞️ I’m looking to collaborate on ... Nothing right now !
 - 📫 How to reach me : angeloni.datascience@gmail.com
